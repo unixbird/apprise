@@ -9,6 +9,7 @@ A small JSON API server for delivering notifications using [Apprise](https://git
 
 This service is suitable as a [sidecar service](https://docs.microsoft.com/en-us/azure/architecture/patterns/sidecar) to another service in a container-based cluster.
 
+This is just an updated version from the original repo.
 
 ## Usage
 
